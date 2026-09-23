@@ -8,4 +8,28 @@ header{
 color:#FFFFFF ;
 
 }
+
+button {
+background-color: brown;
+color:#FFFFFF
+border: none;
+padding: 10px 15px;
+border-radius: 8px;
+curso: pointer;
+
+
+}
+button:hover {
+background-color: crimson;
+
+
+}
+.curtir {
+display:block:
+width: fit-content;
+margin: 20px auto;
+}
+
+
+
    
