@@ -12,7 +12,7 @@ if(curtir === false){
 contador.textContent++;
 curtir = true
 }else{
-contador.textContent--;
+contador.textConten--;
 curtir = false;
 }
 
