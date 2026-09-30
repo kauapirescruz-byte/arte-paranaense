@@ -1,6 +1,18 @@
+:root{
+  --cor-fundo:;
+  --cor-texto:FFFFFF;
+  --cor-principal:;
+  --cor-secundaria:;
+   --cor-card:;
+   --cor-superficie:;
+  --cor-rodape:;
+
+}
+
 body{
-background-color:#99918D ;
-color:#FFFFFF ;
+background-color:wheat
+ ;
+color:var(--cor-texto) ;
 
 }
 header{
@@ -30,6 +42,13 @@ width: fit-content;
 margin: 20px auto;
 }
 
+h1 {
+font-size:36px;
+}
+
+h2{
+color:#FFFFFF
 
 
+}
    
