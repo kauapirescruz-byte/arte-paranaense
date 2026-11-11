@@ -18,5 +18,11 @@ curtir = false;
 
 }
 
-})
-    
+});
+
+const btntema = document.queryelector(".btn-tema");
+btntema.addEventListener("click, mudartema");    
+function mudartema(){
+document.body.classlist.toggle("tema-escuro")    
+}
+
